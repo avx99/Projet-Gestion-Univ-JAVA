@@ -1,0 +1,94 @@
+------------------------------etud---------------
+E100;P200;nom_100;prenom_100;E100@ensak.com;3;
+E101;P200;nom_101;prenom_101;E101@ensak.com;3;
+E102;P200;nom_102;prenom_102;E102@ensak.com;3;
+E103;P200;nom_103;prenom_103;E103@ensak.com;3;
+E104;P201;nom_104;prenom_104;E104@ensak.com;4;
+E105;P201;nom_105;prenom_105;E105@ensak.com;4;
+E106;P202;nom_106;prenom_106;E106@ensak.com;4;
+E107;P202;nom_107;prenom_107;E107@ensak.com;5;
+E108;P203;nom_108;prenom_108;E108@ensak.com;5;
+E109;P204;nom_109;prenom_109;E109@ensak.com;4;
+E110;P204;nom_110;prenom_110;E110@ensak.com;4;
+E111;P205;nom_111;prenom_111;E111@ensak.com;3;
+E112;P205;nom_112;prenom_112;E112@ensak.com;5;
+E113;P206;nom_113;prenom_113;E113@ensak.com;3;
+E114;P206;nom_114;prenom_114;E114@ensak.com;4;
+E115;P207;nom_115;prenom_115;E115@ensak.com;3;
+E116;P207;nom_116;prenom_116;E116@ensak.com;5;
+E117;P208;nom_117;prenom_117;E117@ensak.com;3;
+E118;P209;nom_118;prenom_118;E118@ensak.com;4;
+E119;P209;nom_119;prenom_119;E119@ensak.com;3;
+E120;P209;nom_120;prenom_120;E120@ensak.com;3;
+
+
+------------------------------prof--------------------------
+
+P200;nom_200;prenom_200;PH;P200@ensak.com;
+P201;nom_201;prenom_201;PA;P201@ensak.com;
+P202;nom_202;prenom_202;PH;P202@ensak.com;
+P203;nom_203;prenom_203;PA;P203@ensak.com;
+P204;nom_204;prenom_204;PA;P204@ensak.com;
+P205;nom_205;prenom_205;PH;P205@ensak.com;
+P206;nom_206;prenom_206;PA;P206@ensak.com;
+P207;nom_207;prenom_207;PH;P207@ensak.com;
+P208;nom_208;prenom_208;PA;P208@ensak.com;
+P209;nom_209;prenom_209;PH;P209@ensak.com;
+
+
+---------------------------------projet---------------------
+
+PR300;P200;E100;fin annee;sujet300;10%;NON;
+PR301;P200;E101;fin annee;sujet301;12%;NON;
+PR302;P201;E102;fin etude;sujet302;30%;NON;
+PR303;P202;E103;fin annee;sujet303;40%;NON;
+PR304;P202;E104;fin etude;sujet304;80%;NON;
+PR305;P203;E105;doctorat;sujet305;50%;NON;
+PR306;P204;E106;fin etude;sujet306;60%;NON;
+PR307;P204;E107;fin annee;sujet307;70%;NON;
+PR308;P205;E108;fin annee;sujet308;100%;OUI;
+PR309;P205;E109;doctorat;sujet309;12%;NON;
+PR310;P206;E110;fin etude;sujet310;30%;NON;
+PR311;P207;E111;fin annee;sujet311;40%;NON;
+PR312;P208;E112;fin annee;sujet312;100%;OUI;
+PR313;P209;E113;doctorat;sujet313;50%;NON;
+PR314;P209;E114;fin annee;sujet314;100%;OUI;
+PR315;P209;E115;fin etude;sujet315;70%;NON;
+
+-----------------------------------rapport----------------------
+RA400;nom_400;E100;P200;NON;
+RA401;nom_401;E101;P200;NON;
+RA402;nom_402;E102;P201;NON;
+RA403;nom_403;E103;P202;NON;
+RA404;nom_404;E104;P202;NON;
+RA405;nom_405;E105;P203;NON;
+RA406;nom_406;E106;P204;NON;
+RA407;nom_407;E107;P204;NON;
+RA408;nom_408;E108;P205;OUI;
+RA409;nom_409;E109;P205;NON;
+RA410;nom_410;E110;P206;NON;
+RA411;nom_411;E111;P207;NON;
+RA412;nom_412;E112;P208;OUI;
+RA413;nom_413;E113;P209;NON;
+RA414;nom_414;E114;P209;OUI;
+RA415;nom_415;E115;P209;NON;
+
+----------------------------------rendez--------------------------
+RE500;01/06/2020;P200;E100;
+RE501;02/06/2020;P200;E101;
+RE502;04/06/2020;P201;E102;
+RE503;06/06/2020;P202;E103;
+RE504;07/06/2020;P202;E104;
+RE505;08/06/2020;P203;E105;
+RE506;09/06/2020;P204;E106;
+RE507;12/06/2020;P204;E107;
+RE508;13/06/2020;P205;E108;
+RE509;15/06/2020;P205;E109;
+RE510;17/06/2020;P206;E110;
+RE511;20/06/2020;P207;E111;
+RE512;01/07/2020;P208;E112;
+RE513;03/07/2020;P209;E113;
+RE514;08/07/2020;P209;E114;
+RE515;10/08/2020;P209;E115;
+
+
